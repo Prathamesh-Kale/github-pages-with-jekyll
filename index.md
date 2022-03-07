@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Prathamesh Kale Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is the website under construction by prathamesh kale ...
